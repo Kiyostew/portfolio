@@ -1,0 +1,41 @@
+@use "../utils/utils.scss";
+
+
+.nav {
+  &__hamburger {
+    
+    i {
+      font-size: 3em;
+    }
+  }
+}
+
+
+  /*
+ border-bottom: 0.1rem solid var(--border-color);
+
+  &__list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: right;
+  }
+
+  &__item {
+    padding: 1rem 1.5rem;
+    &:hover {
+      background-color: var(--hover-color);
+    }
+  }
+
+  &__link {
+    display: block;
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+}
+*/
