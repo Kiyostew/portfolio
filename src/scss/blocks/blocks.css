@@ -1,8 +1,8 @@
 .nav {
   background-color: rgba(0, 0, 0, 0);
-}
-.nav__list {
   display: flex;
-  flex-direction: row;
-  list-style-type: none;
-}/*# sourceMappingURL=blocks.css.map */
+
+
+}
+
+/*# sourceMappingURL=blocks.css.map */

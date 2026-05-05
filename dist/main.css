@@ -5,13 +5,9 @@ body {
 
 :root {
   --primary-color: #000000;
-  --secondary-color: #FFFFFF;
+  --secondary-color: #e7dede;
   --border-color: rgba(0, 0, 0, 0.418);
-  --hover-color: rgb(243, 236, 236);
-}
-
-.nav__hamburger i {
-  font-size: 3em;
+  --hover-color: rgb(212, 205, 205);
 }
 
 /*
